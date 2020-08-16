@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@snyk/composer-lockfile-parser@1.0.2":
-  version "1.0.2"
-  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test-public/@snyk/composer-lockfile-parser/-/@snyk/composer-lockfile-parser-1.0.2.tgz#e50876cb27747fba52d3f563fc791fc6dbf887a4"
-  integrity sha1-5Qh2yyd0f7pS0/Vj/Hkfxtv4h6Q=
+"@snyk/composer-lockfile-parser@1.0.3":
+  version "1.0.3"
+  resolved "https://registry.yarnpkg.com/@snyk/composer-lockfile-parser/-/composer-lockfile-parser-1.0.3.tgz#4b703883ec36f3cec63c64355031e06698c771f5"
+  integrity sha512-hb+6E7kMzWlcwfe//ILDoktBPKL2a3+RnJT/CXnzRXaiLQpsdkf5li4q2v0fmvd+4v7L3tTN8KM+//lJyviEkg==
   dependencies:
-    lodash "4.17.11"
+    lodash "^4.17.13"
 
 debug@3.0.0:
   version "3.0.0"
@@ -16,10 +16,10 @@ debug@3.0.0:
   dependencies:
     ms "2.0.0"
 
-lodash@4.17.11:
-  version "4.17.11"
-  resolved "http://artifactory.dev.snyk.io/artifactory/api/npm/npm-deps-test-public/lodash/lodash-4.17.11.tgz#c186208181db7e587c5f48445bfc8b49947ce82a"
-  integrity sha1-wYYggYHbflh8X0hEW/yLSZR86Co=
+lodash@^4.17.13:
+  version "4.17.20"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.20.tgz#b44a9b6297bcb698f1c51a3545a2b3b368d59c52"
+  integrity sha512-PlhdFcillOINfeV7Ni6oF1TAEayyZBoZ8bcshTHqOYJYlrqzRK5hagpagky5o4HfCzzd1TRkXPMFq6cKk9rGmA==
 
 ms@2.0.0:
   version "2.0.0"
