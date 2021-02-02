@@ -4,6 +4,6 @@
   "repository": "git@github.com:snyk-fixtures/artifatory-broker-vulns.git",
   "dependencies": {
     "@snyk/composer-lockfile-parser": "1.0.2",
-    "debug": "3.0.0"
+    "debug": "3.1.0"
   }
 }
